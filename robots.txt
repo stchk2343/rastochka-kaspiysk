@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stchk2343.github.io/rastochka-kaspiysk/sitemap.xml
